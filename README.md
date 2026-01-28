@@ -9,3 +9,5 @@
 ---
 
 *Made with ❤️ in the UK*
+
+Copyright (c) 2026 Antonio Radosav
