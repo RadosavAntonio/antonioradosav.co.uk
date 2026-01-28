@@ -1,0 +1,16 @@
+.app-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  margin: 0;
+  background: linear-gradient(135deg, #f8fafc, #e6eef7);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
+
+.app-container h1 {
+  color: #0f172a;
+  font-size: 2rem;
+  font-weight: 600;
+  margin: 0;
+}
